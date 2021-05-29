@@ -13,3 +13,4 @@ This route was used to remove a json object from the mongo database
 it used a remove() method to delete the object from the database
 
 #HEROKU LINK
+https://dashboard.heroku.com/apps/stark-crag-34921
